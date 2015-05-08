@@ -1,0 +1,1 @@
+http://open.weixin.qq.com/document/gettingstart/android/?lang=zh_CN
